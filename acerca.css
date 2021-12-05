@@ -20,6 +20,13 @@
     float: left;
     height: 70px;
 }
+
+/* ICONO DE MUEBLES FRIDA */
+.icon .logo{
+    position: relative;
+    margin-left: 470px;
+}
+
 .logo{
     color: white;
     font-size: 35px;

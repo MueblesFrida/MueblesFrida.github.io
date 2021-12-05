@@ -34,6 +34,12 @@ html, body{
     transition: .2s ease;
 }
 
+/* ICONO DE MUEBLES FRIDA */
+.icon .logo{
+    position: relative;
+    margin-left: 380px;
+}
+
 .cn:hover{
     background-color: transparent;
     background: lightslategray;

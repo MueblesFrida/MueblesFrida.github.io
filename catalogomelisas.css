@@ -30,6 +30,13 @@ body{
     transition: .3s ease;
    
 }
+
+/* ICONO DE MUEBLES FRIDA */
+.icon .logo{
+    position: relative;
+    margin-left: 380px;
+}
+
 .container .cn{
     width: 250px;
     height: 50px;

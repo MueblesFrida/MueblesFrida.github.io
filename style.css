@@ -25,10 +25,11 @@
     height: 75px;
     margin: auto;
 }
+/*MODIFICA TAMAÑO DE LOGO*/
 .icon{
-    width: 300px;
+    width: 250px;
     float: left;
-    height: 250px;
+    height: 200px;
     
 }
 .logo{
@@ -39,7 +40,7 @@
     padding-right: none;
     float: left;
     padding-top: 50px;
-    padding-bottom: 20px;
+    padding-bottom: 15px;
     
 }
 
