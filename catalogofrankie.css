@@ -89,7 +89,7 @@ body{
 
 .icon .reg:hover{
     transform: translateY(5px);
-    box-shadow: 0 15px 15px rgb(247, 247, 214);
+    box-shadow: 0 15px 15px white;
     transition-delay: 0.1s;
     
 }
