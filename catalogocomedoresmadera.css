@@ -148,7 +148,7 @@ body{
 
 .container .card:hover{
     transform: translateY(5px);
-    box-shadow: 0 20px 20px rgb(247, 247, 214);
+    box-shadow: 0 20px 20px white;
     transition-delay: 0.1s;
     
 }
